@@ -1,5 +1,7 @@
-### Hi there 👋
+## Magnus Smellie's Github Landing page
 
+#### 📫 How to reach me:  
+magnussmellie1@icloud.com
 <!--
 **magnussmellie/magnussmellie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
